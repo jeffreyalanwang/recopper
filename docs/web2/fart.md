@@ -1,9 +1,9 @@
-#hello 
+# hello 
 
 <<<<<<< Updated upstream
-##hello
+## hello
 =======
-##hello 
+## hello 
 
 As Kanye West said:
 
